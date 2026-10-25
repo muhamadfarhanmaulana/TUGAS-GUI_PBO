@@ -2,7 +2,7 @@
 
 * **NIM** : F1D02410015
 * **Nama** : Muhamad Farhan Maulana
-* **Tautan Repositori GitHub** : 
+* **Tautan Repositori GitHub** : https://github.com/muhamadfarhanmaulana/TUGAS-GUI_PBO.git
 
 ---
 
