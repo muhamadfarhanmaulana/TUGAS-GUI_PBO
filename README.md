@@ -24,4 +24,5 @@
    * **`FocusListener`**: Menangani perubahan status fokus (warna latar belakang) pada `textPanjang` saat diklik oleh pengguna[cite: 11].
 
 ### Screenshot Program:
-*(Lampirkan screenshot hasil运行 program GUI aplikasi perhitungan luas persegi panjang ini di sini)*
+<img width="417" height="262" alt="image" src="https://github.com/user-attachments/assets/7872c331-8fe1-4763-8ce0-05c04bd42dc2" />
+
